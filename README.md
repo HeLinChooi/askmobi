@@ -385,7 +385,7 @@ The input is the word @name. If the variable matches with one of the listed keyw
 
 If the user agrees on sending the keyword to the previously assigned email address, the word will immediately arrive to the inbox of the address.
 
-<span style="text-decoration:underline;">Overview of the chatbot taxonomy:</span>
+### Overview of the chatbot taxonomy
 
 
 ![alt_text](images/image12.png "image_tooltip")
@@ -405,11 +405,8 @@ The website was setup based on the guide by Digital Ocean
 Team f1 of Tech Challenge Summer Semester 2021/22
 
 Lukas: [Lukas.kirchhefer@gmail.com](mailto:Lukas.kirchhefer@gmail.com)
-
 Maria: veraruedamaria@gmail.com
-
 Markus: markus@27pilots.com
-
 He Lin: helinchooi@gmail.com
 
 For any questions regarding the approach, application as well as the description, feel free to contact us.
