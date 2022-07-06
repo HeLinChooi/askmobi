@@ -304,7 +304,7 @@ An interactive conversation will start in order to guide the user to the dataset
 
 ### Chatbot
 
-<span style="text-decoration:underline;">Pre-Execution:</span>
+#### Pre-Execution:
 
 The goals kept in mind to achieve a user-friendly and efficient tool were:
 
@@ -321,7 +321,7 @@ The first is based on a line of questions where the user lowers on the level of 
 
 The second works by asking the user to insert keywords, where if there is a successful match among any node in the taxonomy tree, the user is guided through the following nodes that the selected node has, skipping all the higher levels of the tree.
 
-<span style="text-decoration:underline;">Execution:</span>
+#### Execution:
 
 The platform used for the design and execution of the prototype was Landbot. The design is done by drag and drop features that are connected among them to indicate how the logic should be followed.
 
@@ -385,7 +385,7 @@ The input is the word @name. If the variable matches with one of the listed keyw
 
 If the user agrees on sending the keyword to the previously assigned email address, the word will immediately arrive to the inbox of the address.
 
-### Overview of the chatbot taxonomy
+#### Overview of the chatbot taxonomy
 
 
 ![alt_text](images/image12.png "image_tooltip")
@@ -404,9 +404,9 @@ The website was setup based on the guide by Digital Ocean
 
 Team f1 of Tech Challenge Summer Semester 2021/22
 
-Lukas: [Lukas.kirchhefer@gmail.com](mailto:Lukas.kirchhefer@gmail.com)
-Maria: veraruedamaria@gmail.com
-Markus: markus@27pilots.com
+Lukas: [Lukas.kirchhefer@gmail.com](mailto:Lukas.kirchhefer@gmail.com)  
+Maria: veraruedamaria@gmail.com  
+Markus: markus@27pilots.com  
 He Lin: helinchooi@gmail.com
 
 For any questions regarding the approach, application as well as the description, feel free to contact us.
