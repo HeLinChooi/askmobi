@@ -6,12 +6,16 @@
 AskMobi is a chatbot-based solution facilitating the process of searching for desired datasets, backed by a granular dataset taxonomy and filtering capabilities.
 
 
+## Pitch Deck
+
+[Link to Pitch Deck](pitch.com/public/1dd58031-dfdc-44d4-b6ac-bb41258ca27d)
+
 ## Explainer Video
 
 [Link to explainer video](https://drive.google.com/file/d/1Nk2m565AZSDlsg2JY_5Z1OoD200MRGr3/view?usp=sharing)
 
 
-## Link to prototype
+## Prototype
 
 [https://askmobi.ml/](https://askmobi.ml/)
 
@@ -293,7 +297,7 @@ An interactive conversation will start in order to guide the user to the dataset
 
 ### Chatbot
 
-#### Pre-Execution:
+#### Execution Plan:
 
 The goals kept in mind to achieve a user-friendly and efficient tool were:
 
@@ -373,7 +377,10 @@ If the user agrees on sending the keyword to the previously assigned email addre
 #### Overview of the chatbot taxonomy
 
 
-<img src="images/image14.png" width="700"/>
+<img src="images/image15.png" width="700"/>
+<img src="images/image16.png" width="700"/>
+<img src="images/image17.png" width="700"/>
+<img src="images/image18.png" width="700"/>
 
 *the chatbot was filled with a portion of the taxonomy tree as an illustrative prototype
 
