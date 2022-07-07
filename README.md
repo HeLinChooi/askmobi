@@ -64,7 +64,7 @@ Our solution includes more than 480 data categories and 11 filters curated, aggr
 
 
 <table>
-  <tr>
+  <tr style="font-weight:bold">
    <td>Competitor
    </td>
    <td>Conversational
@@ -80,7 +80,7 @@ Our solution includes more than 480 data categories and 11 filters curated, aggr
    <td>Data Variability
    </td>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
    <td>AskMobi (MDS)
    </td>
    <td>X
@@ -186,7 +186,7 @@ Our solution includes more than 480 data categories and 11 filters curated, aggr
 
 
 <table>
-  <tr>
+  <tr style="font-weight:bold">
    <td>Tool
    </td>
    <td>Usage
@@ -373,7 +373,7 @@ If the user agrees on sending the keyword to the previously assigned email addre
 #### Overview of the chatbot taxonomy
 
 
-<img src="images/image14.png" width="400"/>
+<img src="images/image14.png" width="700"/>
 
 *the chatbot was filled with a portion of the taxonomy tree as an illustrative prototype
 
