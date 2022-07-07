@@ -281,24 +281,13 @@ The Mobi chatbot will be a mean of communication between the user and the data s
 
 We recreated the data space mobility website, as the interface where the user can easily interact with the chatbot:
 
-![alt_text](images/image3.png "image_tooltip")
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
-![alt_text](images/image6.png "image_tooltip")
-
+<img src="images/image3.jpeg" width="400"/>
 
 The chosen platform for designing the interface was WordPress.
 
 The conversation starts when the user clicks on the white circle on the right bottom side.
 
-![alt_text](images/image7.png "image_tooltip")
-
+<img src="images/convo-start.jpg" width="300"/>
 
 An interactive conversation will start in order to guide the user to the dataset that he/she is looking for.
 
@@ -332,16 +321,14 @@ Along the diagram, 6 types of blocks were used. Followed by the description of t
 This feature outputs a text that will be shown in the conversation.
 
 
-![alt_text](images/image8.png "image_tooltip")
-
+<img src="images/image10.jpg" width="300"/>
 
 2. Buttons:
 
 Followed by a text, buttons will be given with different options on paths to take. Each path is linked to another node.
 
 
-![alt_text](images/image9.png "image_tooltip")
-
+<img src="images/image11.jpg" width="300"/>
 
 3. Question Text:
 
@@ -352,16 +339,14 @@ The chatbot will ask the user for a text input and the text is saved in a string
 Receives a string variable as input and if it matches one of the nodes inside the tree it jumps to the matching node.
 
 
-![alt_text](images/image10.png "image_tooltip")
-
+<img src="images/image12.jpg" width="300"/>
 
 5. Send email:
 
 Receives a string variable as input and sends the word to a previously entered email address.
 
 
-![alt_text](images/image11.png "image_tooltip")
-
+<img src="images/image13.jpg" width="300"/>
 
 Each of the features were used for the following tasks:
 
@@ -388,8 +373,7 @@ If the user agrees on sending the keyword to the previously assigned email addre
 #### Overview of the chatbot taxonomy
 
 
-![alt_text](images/image12.png "image_tooltip")
-
+<img src="images/image14.png" width="400"/>
 
 *the chatbot was filled with a portion of the taxonomy tree as an illustrative prototype
 
@@ -399,14 +383,23 @@ The website was setup based on the guide by Digital Ocean
 
 [How To Install WordPress With Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose)
 
+Gutenverse theme was used to design the website.
+
+<img src="images/image3.jpeg" width="400"/>
+<img src="images/image4.jpeg" width="400"/>
+<img src="images/image5.jpeg" width="400"/>
+<img src="images/image6.jpeg" width="400"/>
+<img src="images/image7.jpeg" width="400"/>
+<img src="images/image8.jpeg" width="400"/>
+<img src="images/image9.jpeg" width="400"/>
 
 ## Credits
 
 Team f1 of Tech Challenge Summer Semester 2021/22
 
-Lukas: [Lukas.kirchhefer@gmail.com](mailto:Lukas.kirchhefer@gmail.com)  
-Maria: veraruedamaria@gmail.com  
 Markus: markus@27pilots.com  
+Lukas: [Lukas.kirchhefer@gmail.com](mailto:Lukas.kirchhefer@gmail.com)  
+Maria: veraruedamaria@gmail.com   
 He Lin: helinchooi@gmail.com
 
 For any questions regarding the approach, application as well as the description, feel free to contact us.
