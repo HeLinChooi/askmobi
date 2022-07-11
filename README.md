@@ -62,9 +62,44 @@ AskMobi is a software solution which was developed by students of Technical Univ
 
 ### Data Taxonomy
 
-Our solution includes more than 480 data categories and 11 filters curated, aggregated, and structured from 8 leading databases. Our Taxonomy includes data on the environment, public transport, vehicle- and ride-sharing, the mobility infrastructure, as well as OEM-specific data.
+The Data Taxonomy is the main source of information for AskMobi’s reasoning and guidance. It consists of over 480 different data categories arranged in a granular and structured Datatree with drop-down capabilities. Fundamentally, it is structured along five areas of data to the mobility industry. These five key areas were identified and defined in accordance with 12 interviews conducted with founders of Munich-based mobility startups, based on their relevance to the products and services these startups develop:    
 
-<img src="images/image2.jpg" width="300"/>
+
+
+1. Data on the **Environment: **This includes a variety of real-time and historical data on data points such as air quality, precipitation, wind, and others. Based on our customer interviews, this data is most relevant to startups operating in sustainable mobility 
+2. Data provided by **OEMs** (e.g., BMW, Mercedes-Benz, Volkswagen, etc.): This mainly includes vehicle- or customer-specific data points, that can solely be provided by OEMs. Based on our customer interviews, this data is most relevant to startups providing modular enhancements and/or new services for vehicles 
+3. Data on** Public Transport**: As the name indicates, this cluster includes a variety of data concerning public transport in Germany (e.g., passenger data, vehicle data, usage data, etc.). Based on our customer interviews, this data is most relevant for startups providing value-adding services for users of public transport.
+4. Data on the **Sharing Ecosystem**: This cluster includes data centering on the concepts of vehicle sharing and ride-sharing. More specifically, this includes data on micromobility, carsharing, as well as on taxis, and ride-hailing. This data is most relevant to startups providing value-adding services for users of shared mobility.
+5. Data on the **Mobility Infrastructure:** This cluster includes a variety of relevant data fields for the mobility ecosystem, including data on the German fuel network, road network, transportation industry, and security and surveillance. This data is most relevant to startups leveraging existing infrastructure to provide value-adding services for end-users.
+
+As can be seen in the following image, for the final data taxonomy, relevant data points from these five key areas were aggregated and granularly structured using a drop-down functionality. In this way, for each key area, a user can start from the highest level of data specification, and iteratively select more specified data subclusters. Each data category then includes an explanatory description, making data discovery more intuitive for the end-user. 
+
+<img src="images/image1datataxonomy.png" width="900"/>
+
+The data points for these five key areas were aggregated from leading databases, that were identified through research and sourcing. These area-specific databases were provided by the following companies: \
+
+* Caruso Dataplace
+* Tomorrow.io
+* Bundesministerium für Verkehr und Digitale Infrastruktur
+* Catena-X
+* Destatis
+* BMW
+* MobilityDB
+* Gaia-X
+
+For the process of data aggregation for the AskMobi Data Taxonomy, first, those databases were analyzed that provide very specific data on a specific key area. Exemplarily, tomorrow.io was identified as one of the leading global providers of environmental data. For the key area of “Environment”, relevant data points were taken from the Tomorrow.io developer portal (see image below)
+
+
+<img src="images/image2datataxonomy.png" width="900"/>
+
+
+This process was then replicated for the remaining key areas. In this way, we were able to identify very area-specific data categories that are relevant and industry-proven. Many databases also provided dataset descriptions (e.g., the Caruso developer portal for OEM-specific data).
+
+
+<img src="images/image3datataxonomy.png" width="900"/>
+
+
+As a result, we ended up with approximately 80% of our final data taxonomy. In the next step, we identified key gaps within the existing data taxonomy, and actively looked for data sources that can close these gaps. Especially Gaia-X, Catena-X, and MobilityDB were very beneficial for the identification of missing data points to complete the final data taxonomy for AskMobi. 
 
 
 ### Key Differentiators
