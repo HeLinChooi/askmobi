@@ -14,10 +14,13 @@ AskMobi is a chatbot-based solution facilitating the process of searching for de
 
 [Link to explainer video](https://drive.google.com/file/d/1Nk2m565AZSDlsg2JY_5Z1OoD200MRGr3/view?usp=sharing)
 
-
 ## Prototype
 
 [https://askmobi.ml/](https://askmobi.ml/)
+
+## Data Taxonomy
+
+[Link to Data Taxonomy](https://docs.google.com/document/d/1LDR_SdQjl4OGtH1i2zkJtaeD9365XN57Ii0Kg5q5ZM0/edit?usp=sharing)
 
 
 ## Background
@@ -211,7 +214,7 @@ Our solution includes more than 480 data categories and 11 filters curated, aggr
    </td>
    <td>Implementation of logic of data taxonomy
    </td>
-   <td>-
+    <td><a href="https://docs.google.com/document/d/1LDR_SdQjl4OGtH1i2zkJtaeD9365XN57Ii0Kg5q5ZM0/edit?usp=sharing">https://docs.google.com/document/d/1LDR_SdQjl4OGtH1i2zkJtaeD9365XN57Ii0Kg5q5ZM0/edit?usp=sharing</a> 
    </td>
   </tr>
   <tr>
