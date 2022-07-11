@@ -8,7 +8,7 @@ AskMobi is a chatbot-based solution facilitating the process of searching for de
 
 ## Pitch Deck
 
-[Link to Pitch Deck](pitch.com/public/1dd58031-dfdc-44d4-b6ac-bb41258ca27d)
+[Link to Pitch Deck](https://pitch.com/public/1dd58031-dfdc-44d4-b6ac-bb41258ca27d)
 
 ## Explainer Video
 
@@ -73,15 +73,15 @@ Our solution includes more than 480 data categories and 11 filters curated, aggr
    </td>
    <td>Conversational
    </td>
-   <td>Keyword Search
+   <td>Database Integration
    </td>
-   <td>Front-end Taxonomy
+   <td>Data Variability
+   </td>
+   <td>No-Code Solution
    </td>
    <td>Filter Capabilities
    </td>
-   <td>Granularity
-   </td>
-   <td>Data Variability
+   <td>Front-End Taxonomy
    </td>
   </tr>
   <tr style="font-weight:bold">
@@ -101,25 +101,9 @@ Our solution includes more than 480 data categories and 11 filters curated, aggr
    </td>
   </tr>
   <tr>
-   <td>Gala-X
-   </td>
-   <td>
+   <td>Forethought AI
    </td>
    <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-   <td>X
-   </td>
-  </tr>
-  <tr>
-   <td>Caruso Dataplace
-   </td>
-   <td>
    </td>
    <td>X
    </td>
@@ -133,9 +117,7 @@ Our solution includes more than 480 data categories and 11 filters curated, aggr
    </td>
   </tr>
   <tr>
-   <td>Catena-X
-   </td>
-   <td>
+   <td>AskJenny
    </td>
    <td>X
    </td>
@@ -146,38 +128,56 @@ Our solution includes more than 480 data categories and 11 filters curated, aggr
    <td>X
    </td>
    <td>
-   </td>
-  </tr>
-  <tr>
-   <td>MobilityDB
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
-   </td>
-   <td>
-   </td>
-   <td>X
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>Mobility Database (TransitFeeds)
+   <td>Talk-a-Bot
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>X
+   </td>
+   <td>X
    </td>
    <td>
    </td>
    <td>
    </td>
+  </tr>
+  <tr>
+   <td>Ada CX
+   </td>
    <td>X
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+   <td>X
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Kore AI
    </td>
    <td>X
    </td>
    <td>X
    </td>
    <td>X
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
    </td>
   </tr>
 </table>
