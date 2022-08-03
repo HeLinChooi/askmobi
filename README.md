@@ -16,7 +16,7 @@ AskMobi is a chatbot-based solution facilitating the process of searching for de
 
 ## Prototype
 
-[https://askmobi.ml/](https://askmobi.ml/)
+[https://askmobi.000webhostapp.com/](https://askmobi.000webhostapp.com/)
 
 ## Data Taxonomy
 
